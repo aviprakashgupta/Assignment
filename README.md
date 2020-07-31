@@ -68,7 +68,7 @@ heroku git:remote -a assignment-fullthrottle
 
 # After that app is hosted to heroku you can access it\
 # First go to https://json-server-full.herokuapp.com/ to start json-server\
-# Then Run the App By Going to link https://assignment-fullthrottle.herokuapp.com/\
+# Then Run the App By Going to link https://assignment-fullthrottle.herokuapp.com/
 
 
 ## Languages & tools
