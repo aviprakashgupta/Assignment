@@ -5,9 +5,9 @@ This Project contains Two directories one is confusion that contains React.js Co
 
 ## Requirements
 
-Json-server (Mock RESTAPI) Server\ 
-NPM\
-Heroku CLI\
+Json-server (Mock RESTAPI) Server<br/>
+NPM<br/>
+Heroku CLI
 
 
 ### Build
@@ -17,7 +17,7 @@ use commmand $ create-react-app confusion to create react app\
 use npm init\
 add some information to npm init\
 click Yes\
-Project is initiated with App.js , index.js and Package.json file etc\
+Project is initiated with App.js , index.js and Package.json file etc
 
 ### Configure Json-Server(Mock RESTapi Server) 
 
@@ -31,9 +31,9 @@ create a Json File with name db.json\
 			"activity_periods": [{
 					"start_time": "Feb 1 2020  1:33PM",
 					"end_time": "Feb 1 2020 1:54PM"
-				},\
+				},<br/>
         
-Save json file as db.json\
+Save json file as db.json
         
 
 ### Configure React App
@@ -62,7 +62,7 @@ Download Heroku CLI\
 Add Buildpack\ 
 GO to Terminal and login to Heroku using Heroku cli ,Commmand is heroku login\
 Intitialise git and push git to heroku\ 
-heroku git:remote -a assignment-fullthrottle\
+heroku git:remote -a assignment-fullthrottle
 
 
 
